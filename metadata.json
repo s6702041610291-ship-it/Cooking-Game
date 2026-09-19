@@ -1,0 +1,6 @@
+{
+  "name": "Cozy English Cafe",
+  "description": "เกมจำลองทำอาหารและเรียนรู้สาระวิชา Parts of Speech สไตล์สวีทวินเทจชมพูพาสเทล พร้อมเตา 3 เตา จาน 4 ใบ และระบบเสียง Web Audio / Web Speech",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
